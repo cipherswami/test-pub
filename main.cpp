@@ -4,8 +4,8 @@ using namespace std;
 int main() {
   int a;
   cout << "Hello world, from C++." << endl;
-  printf("Enter a value: ");
-  scanf("%d", &a);
-  printf("Value entered: %d\n", a);
+  cout << "Enter a value: ";
+  cin >> a;
+  cout << "Value entered: " << a << endl;
   return 0;
 }
