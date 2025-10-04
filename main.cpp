@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
   int a;
-  printf("Hello world.\n");
+  cout << "Hello world, from C++." << endl;
   printf("Enter a value: ");
   scanf("%d", &a);
   printf("Value entered: %d\n", a);
