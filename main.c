@@ -1,6 +1,6 @@
-#include <bits/stdc++.h>
+#include <stdio.h>
 
 int main() {
-  cout << "This is change from bugfix." << endl;
+  printf("This is change from bugfix.\n");
   return 0;
 }
